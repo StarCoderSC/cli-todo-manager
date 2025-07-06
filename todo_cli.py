@@ -1,6 +1,6 @@
 import os
 
-TASK_FILE = "tasts.txt"
+TASK_FILE = "tasks.txt"
 
 # Load task from file
 def load_tasks():
